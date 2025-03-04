@@ -1,2 +1,7 @@
-"## Registro de Usuarios proceso de registro de usuarios en la aplicaci¢n." 
-"\n## Consulta de Rutas\n\nInformaci¢n sobre rutas y horarios." 
+## Consulta de Rutas
+
+Informaci√≥n sobre rutas y horarios.
+
+## Sistema de Tarifas
+
+Informaci√≥n sobre precios y tarifas del Transmetro.
